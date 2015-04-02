@@ -1,0 +1,2 @@
+The bonus program is modified so that it can also turn large image into ascii art. It will resize the image so that the producing ascii art is with 
+appropriate size. I also find some image which is suitable for ascii art.
